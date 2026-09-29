@@ -1,0 +1,6 @@
+name: genpark-ast-static-code-analyzer-linter-skill
+version: 1.0.0
+description: Python AST visitor analyzing cyclomatic complexity, code smells, missing docstrings, and dangerous builtins
+command: python
+args:
+  - mcp_server.py
