@@ -1,0 +1,20 @@
+{
+  "name": "genpark-ast-static-code-analyzer-linter-skill",
+  "version": "1.0.0",
+  "description": "Python AST visitor analyzing cyclomatic complexity, code smells, missing docstrings, and dangerous builtins",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "ast-analyzer",
+    "static-analysis",
+    "code-linter",
+    "cyclomatic-complexity",
+    "code-intelligence",
+    "python-standard-library",
+    "agent-skills",
+    "security-audit",
+    "developer-tools",
+    "autonomous-coding"
+  ]
+}
